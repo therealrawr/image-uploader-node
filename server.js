@@ -1,0 +1,1 @@
+// initialize server and mongodb connection, import dependencies

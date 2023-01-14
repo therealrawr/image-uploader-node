@@ -1,0 +1,1 @@
+// import image controller and handle image routes
